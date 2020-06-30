@@ -1,0 +1,13 @@
+Save model:
+Save model...
+
+Actor Net Saving at log\classification\2020-06-03_16-04\checkpoints\actor_model_iter0.pth
+
+Critic Net Saving at log\classification\2020-06-03_16-04\checkpoints\critic_model_iter0.pth
+
+Save model...
+
+Actor Net Saving at log\classification\2020-06-03_16-04\checkpoints\actor_model_iter1.pth
+
+Critic Net Saving at log\classification\2020-06-03_16-04\checkpoints\critic_model_iter1.pth
+

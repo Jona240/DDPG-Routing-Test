@@ -1,0 +1,775 @@
+Path:
+train_graph No.0 
+Route No.0 
+2
+0
+8
+0
+0
+本次总Reward：-10009
+
+
+Route No.1 
+0
+本次总Reward：-10000
+
+
+Route No.2 
+0
+本次总Reward：-10000
+
+
+Route No.3 
+0
+本次总Reward：-10000
+
+
+Route No.4 
+0
+本次总Reward：-10000
+
+
+Route No.5 
+2
+0
+10
+本次总Reward：-10001
+
+
+Route No.6 
+0
+本次总Reward：-10000
+
+
+Route No.7 
+0
+本次总Reward：-10000
+
+
+Route No.8 
+2
+0
+10
+本次总Reward：-10001
+
+
+Route No.9 
+2
+10
+11
+0
+本次总Reward：-10000
+
+
+Route No.10 
+0
+本次总Reward：-10000
+
+
+Route No.11 
+0
+本次总Reward：-10000
+
+
+Route No.12 
+2
+0
+0
+本次总Reward：-10001
+
+
+Route No.13 
+2
+10
+0
+本次总Reward：-10000
+
+
+Route No.14 
+2
+10
+0
+本次总Reward：-10000
+
+
+Route No.15 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.16 
+28
+0
+2
+0
+10
+本次总Reward：-10003
+
+
+Route No.17 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.18 
+2
+0
+10
+本次总Reward：-10001
+
+
+Route No.19 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.20 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.21 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.22 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.23 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.24 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.25 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.26 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.27 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.28 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.29 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.30 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.31 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.32 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.33 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.34 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.35 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.36 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.37 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.38 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.39 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.40 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.41 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.42 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.43 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.44 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.45 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.46 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.47 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.48 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+Route No.49 
+2
+10
+11
+13
+本次总Reward：1000
+
+
+train_graph No.1 
+Route No.0 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.1 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.2 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.3 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.4 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.5 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.6 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.7 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.8 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.9 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.10 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.11 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.12 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.13 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.14 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.15 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.16 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.17 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.18 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.19 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.20 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.21 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.22 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.23 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.24 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.25 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.26 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.27 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.28 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.29 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.30 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.31 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.32 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.33 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.34 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.35 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.36 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.37 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.38 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.39 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.40 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.41 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.42 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.43 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.44 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.45 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.46 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.47 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.48 
+18
+16
+15
+13
+本次总Reward：1000
+
+
+Route No.49 
+18
+16
+15
+13
+本次总Reward：1000
+
+
